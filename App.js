@@ -8,7 +8,7 @@ const navigator = createStackNavigator({
 }, {
     initialRouteName: 'Search',
     defaultNavigationOptions: {
-        title: 'Itáliano Résta',
+        title: 'Palazzese',
         headerStyle:{
             backgroundColor: '#ffffff', // this will handle the cutOff at the top the screen
             elevation: 0,
